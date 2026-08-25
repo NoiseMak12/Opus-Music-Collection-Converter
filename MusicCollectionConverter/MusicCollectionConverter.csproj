@@ -1,0 +1,349 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\A1. Shine On.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\A2. Summer Breeze.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\A3. Hot Sand.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\A4. Gentle Shower.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\A5. Twilight.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\B1. Samba Night.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\B2. Starlight Love.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\B3. Night Shore.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\B4. Angel Smile.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\B5. Moonlight Beach.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\Back.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\Front.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\Info.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\Side A.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\Side B.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\01 - 「カウントダウン・Pq・A」.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\02 - 事件は恋のように.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\03 - 「カウントダウン・Pq・A」.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\04 - True.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\05 - 「カウントダウン・Pq・A」.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\06 - ひとりごと.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\07 - 「カウントダウン・Pq・A」.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\08 - 西側の窓辺なら.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\09 - 「カウントダウン・Pq・A」.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\10 - あっちこっち Myself.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\11 - 「カウントダウン・Pq・A」.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\12 - ぷりんせすっ・うぉーず.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\13 - 事件は恋のように %28カラオケ%29.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\14 - True %28カラオケ%29.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\15 - ひとりごと %28カラオケ%29.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\16 - 西側の窓辺なら %28カラオケ%29.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\17 - あっちこっち Myself %28カラオケ%29.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\18 - ぷりんせすっ・うぉーず %28カラオケ%29.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Photos\Back.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Photos\Disc Tray B.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Photos\Disc Tray Inner B.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Photos\Disc Tray Inner.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Photos\Disc Tray.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Photos\Disc.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Photos\Front.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Photos\Spine A.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Photos\Spine B.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\01-02.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\03-04.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\05-06.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\07-08.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\09-10.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\Back Panel.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\Disc Tray Panel.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\Disc.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\Front &amp; Back.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\Obi.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\Questionnaire A.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\Questionnaire B.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\プリンセスクエスト.cue">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\プリンセスクエスト.log">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\A1. Shine On.flac">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\A2. Summer Breeze.flac">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\A3. Hot Sand.flac">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\A4. Gentle Shower.flac">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\A5. Twilight.flac">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\B1. Samba Night.flac">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\B2. Starlight Love.flac">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\B3. Night Shore.flac">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\B4. Angel Smile.flac">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\B5. Moonlight Beach.flac">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\Back.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\Front.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\Info.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\Side A.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281983%29 Piper %28パイパー%29 - Summer Breeze {Yuperitiu Records YV27-1003} [24-96 Vinyl FLAC]\Side B.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\01 - 「カウントダウン・Pq・A」.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\02 - 事件は恋のように.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\03 - 「カウントダウン・Pq・A」.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\04 - True.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\05 - 「カウントダウン・Pq・A」.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\06 - ひとりごと.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\07 - 「カウントダウン・Pq・A」.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\08 - 西側の窓辺なら.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\09 - 「カウントダウン・Pq・A」.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\10 - あっちこっち Myself.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\11 - 「カウントダウン・Pq・A」.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\12 - ぷりんせすっ・うぉーず.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\13 - 事件は恋のように %28カラオケ%29.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\14 - True %28カラオケ%29.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\15 - ひとりごと %28カラオケ%29.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\16 - 西側の窓辺なら %28カラオケ%29.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\17 - あっちこっち Myself %28カラオケ%29.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\18 - ぷりんせすっ・うぉーず %28カラオケ%29.flac">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Photos\Back.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Photos\Disc Tray B.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Photos\Disc Tray Inner B.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Photos\Disc Tray Inner.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Photos\Disc Tray.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Photos\Disc.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Photos\Front.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Photos\Spine A.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Photos\Spine B.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\01-02.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\03-04.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\05-06.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\07-08.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\09-10.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\Back Panel.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\Disc Tray Panel.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\Disc.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\Front &amp; Back.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\Obi.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\Questionnaire A.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\Scans\Questionnaire B.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\プリンセスクエスト.cue">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MusicDir\%281998%29 [PCCB-00303] Scitron FCS Series - Princess Quest - プリンセスクエスト [FLAC]\プリンセスクエスト.log">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
